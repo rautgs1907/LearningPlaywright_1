@@ -10,4 +10,7 @@ if (score >= 90) {
     console.log("Grade: D — Below Average");
 } else {
     console.log("Grade: F — Fail");
+    console.log("Grade: F — Fail");
 }
+
+console.log("Grade: F — Fail");
